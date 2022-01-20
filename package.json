@@ -1,13 +1,13 @@
 {
-  "name": "numalauncher",
+  "name": "TokuzouServer-launcher",
   "version": "2.0.5",
-  "productName": "NumaLauncher",
-  "description": "沼でも使えるMinecraftランチャー",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/), Kamesuta (https://github.com/Kamesuta/)",
+  "productName": "TokuzouServer-launcher",
+  "description": " 簡単に使えるMinecraftランチャー",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), tokuzou0829 (https://github.com/tokuzou0829/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/TeamKun/NumaLauncher",
+  "homepage": "https://github.com/TokuzouServer/TokuzouServer-launcher",
   "bugs": {
-    "url": "https://github.com/TeamKun/NumaLauncher/issues"
+    "url": "https://github.com/TokuzouServer/TokuzouServer-launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -52,6 +52,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamKun/NumaLauncher.git"
+    "url": "git+https://github.com/TokuzouServer/TokuzouServer-launcher.git"
   }
 }
